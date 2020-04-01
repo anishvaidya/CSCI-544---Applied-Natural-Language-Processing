@@ -27,12 +27,14 @@ Modifications done:
     c. Remove the words from vocabulary if they occur in less than 5 documents (ie. text files), ie. remove word from vocabulary if
     count(word_in_number_of_documents) < 5.
     d. Club all the numeric values together into a single tag "NUM".
+    e. Removing the special characters like "!", "%", etc. 
+    It was observed that running the trainer function with the above mentioned enhancements provided the best results (F1 - scores).
     Below are the best performance results I got after enhancements.
 
 4. Best performance results based on enhancements. Note that these could be the same or worse than the standard implementation.
-4a. spam precision: 0.9610321221695629
-4b. spam recall: 0.9931972789115646 
-4c. spam F1 score: 0.9768499933092465
-4d. ham precision: 0.9818445896877269
-4e. ham recall: 0.9013333333333333
-4f. ham F1 score: 0.9398679179701077
+4a. spam precision: 0.9947513812154696
+4b. spam recall: 0.9798639455782313  
+4c. spam F1 score: 0.9872515421521589
+4d. ham precision: 0.952411575562701 
+4e. ham recall: 0.9873333333333333
+4f. ham F1 score: 0.9695581014729951

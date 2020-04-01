@@ -155,7 +155,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3084.2000-10-20.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0858.2000-04-27.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1595.2000-06-22.beck.ham.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4021.2001-01-16.beck.ham.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4021.2001-01-16.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3359.2000-11-10.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2253.2000-08-25.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3153.2000-10-25.beck.ham.txt
@@ -210,7 +210,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0595.2000-03-21.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0283.2000-02-16.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0548.2000-03-15.beck.ham.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4034.2001-01-16.beck.ham.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4034.2001-01-16.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1961.2000-07-21.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1003.2000-05-12.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2126.2000-08-09.beck.ham.txt
@@ -357,7 +357,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3363.2000-11-10.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3437.2000-11-16.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3869.2001-01-02.beck.ham.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0946.2000-05-08.beck.ham.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0946.2000-05-08.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2814.2000-10-04.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4185.2001-01-24.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3920.2001-01-08.beck.ham.txt
@@ -512,7 +512,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4117.2001-01-19.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2986.2000-10-12.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/5139.2001-04-23.beck.ham.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4077.2001-01-17.beck.ham.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4077.2001-01-17.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4863.2001-04-03.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3532.2000-11-28.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4738.2001-03-27.beck.ham.txt
@@ -881,7 +881,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2223.2000-08-23.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4471.2001-02-18.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3507.2000-11-21.beck.ham.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1512.2000-06-19.beck.ham.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1512.2000-06-19.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3857.2000-12-29.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0836.2000-04-26.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1235.2000-06-06.beck.ham.txt
@@ -896,7 +896,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/5118.2001-04-19.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2705.2000-09-27.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3278.2000-11-02.beck.ham.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0682.2000-04-10.beck.ham.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0682.2000-04-10.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0410.2000-03-02.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4641.2001-03-19.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1173.2000-06-01.beck.ham.txt
@@ -934,7 +934,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2797.2000-10-03.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1814.2000-07-05.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4583.2001-03-01.beck.ham.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4476.2001-02-19.beck.ham.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4476.2001-02-19.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2133.2000-08-11.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3073.2000-10-19.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3488.2000-11-17.beck.ham.txt
@@ -952,7 +952,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3005.2000-10-13.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1817.2000-07-05.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2967.2000-10-11.beck.ham.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4038.2001-01-16.beck.ham.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4038.2001-01-16.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3018.2000-10-13.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1171.2000-06-01.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4750.2001-03-28.beck.ham.txt
@@ -1016,7 +1016,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1143.2000-05-30.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2865.2000-10-06.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0937.2000-05-08.beck.ham.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4656.2001-03-20.beck.ham.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4656.2001-03-20.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0268.2000-02-15.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4836.2001-04-02.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/1940.2000-07-20.beck.ham.txt
@@ -1099,7 +1099,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2984.2000-10-12.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2673.2000-09-22.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0739.2000-04-16.beck.ham.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4074.2001-01-17.beck.ham.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/4074.2001-01-17.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0886.2000-05-01.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2633.2000-09-21.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/3324.2000-11-08.beck.ham.txt
@@ -1499,7 +1499,7 @@ ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignm
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/2121.2000-08-08.beck.ham.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/ham/0074.2000-01-21.beck.ham.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1069.2002-08-26.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1823.2005-06-23.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1823.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3692.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4962.2005-07-20.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0538.2002-07-18.SA_and_HP.spam.txt
@@ -1570,7 +1570,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2839.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2785.2005-06-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1858.2005-06-23.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4533.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4533.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3870.2005-07-13.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1435.2005-05-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3133.2005-07-02.SA_and_HP.spam.txt
@@ -1632,7 +1632,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1120.2002-08-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3385.2005-07-04.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4716.2005-07-19.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4609.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4609.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2190.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5107.2005-07-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3159.2005-07-02.SA_and_HP.spam.txt
@@ -1676,7 +1676,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2185.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3886.2005-07-13.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0572.2002-07-19.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1962.2005-06-24.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1962.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5038.2005-07-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1995.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0857.2002-07-30.SA_and_HP.spam.txt
@@ -1694,7 +1694,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0480.2002-06-11.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1641.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4042.2005-07-15.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2291.2005-06-26.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2291.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0412.2002-06-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2489.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0654.2002-07-22.SA_and_HP.spam.txt
@@ -1755,7 +1755,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4080.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2078.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3534.2005-07-05.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1825.2005-06-23.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1825.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3002.2005-07-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1654.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1639.2005-06-22.SA_and_HP.spam.txt
@@ -1862,7 +1862,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4035.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1451.2005-06-13.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2364.2005-06-27.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4566.2005-07-19.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4566.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4470.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2101.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2182.2005-06-26.SA_and_HP.spam.txt
@@ -1878,7 +1878,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3461.2005-07-04.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0761.2002-07-24.SA_and_HP.spam.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1783.2005-06-23.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2187.2005-06-26.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2187.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3964.2005-07-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2392.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1857.2005-06-23.SA_and_HP.spam.txt
@@ -1909,10 +1909,10 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2764.2005-06-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2421.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2589.2005-06-28.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4741.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4741.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2567.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2012.2005-06-24.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3210.2005-07-02.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3210.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2692.2005-06-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1969.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3164.2005-07-02.SA_and_HP.spam.txt
@@ -1939,13 +1939,13 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2435.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4194.2005-07-16.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3033.2005-07-01.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2196.2005-06-26.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2196.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1152.2002-09-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3279.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2280.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4688.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3701.2005-07-06.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3758.2005-07-07.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3758.2005-07-07.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4857.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4284.2005-07-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1590.2005-06-22.SA_and_HP.spam.txt
@@ -2026,7 +2026,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5174.2005-07-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2362.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5175.2005-07-22.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4724.2005-07-19.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4724.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1410.2005-04-14.SA_and_HP.spam.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4736.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3865.2005-07-13.SA_and_HP.spam.txt
@@ -2098,7 +2098,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4041.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2581.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3081.2005-07-01.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4673.2005-07-19.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4673.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2393.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2018.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0381.2002-06-03.SA_and_HP.spam.txt
@@ -2114,7 +2114,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0411.2002-06-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1425.2005-05-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1974.2005-06-24.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2157.2005-06-25.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2157.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2824.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4875.2005-07-20.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4459.2005-07-19.SA_and_HP.spam.txt
@@ -2168,7 +2168,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3320.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3328.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2830.2005-06-30.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3561.2005-07-05.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3561.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3205.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1738.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4409.2005-07-18.SA_and_HP.spam.txt
@@ -2212,18 +2212,18 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2410.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4088.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2066.2005-06-24.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4519.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4519.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4072.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0438.2002-06-07.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3850.2005-07-12.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4794.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1482.2005-06-21.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2186.2005-06-26.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2186.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2563.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3848.2005-07-12.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3163.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1037.2002-08-24.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1049.2002-08-25.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1049.2002-08-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0282.2002-05-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4083.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2425.2005-06-27.SA_and_HP.spam.txt
@@ -2231,7 +2231,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1892.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0636.2002-07-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5135.2005-07-21.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3282.2005-07-03.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3282.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3590.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2904.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0099.2002-05-06.SA_and_HP.spam.txt
@@ -2284,7 +2284,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2622.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0913.2002-08-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4837.2005-07-19.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2376.2005-06-27.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2376.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3935.2005-07-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0679.2002-07-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0048.2002-02-03.SA_and_HP.spam.txt
@@ -2368,8 +2368,8 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3960.2005-07-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4099.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0020.2001-07-28.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3874.2005-07-13.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4703.2005-07-19.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3874.2005-07-13.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4703.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3725.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0714.2002-07-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0244.2002-05-21.SA_and_HP.spam.txt
@@ -2432,7 +2432,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1472.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4773.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0961.2002-08-07.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3046.2005-07-01.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3046.2005-07-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4044.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2612.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3871.2005-07-13.SA_and_HP.spam.txt
@@ -2492,7 +2492,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4134.2005-07-16.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0210.2002-05-18.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4916.2005-07-20.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3171.2005-07-02.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3171.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1220.2002-09-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3931.2005-07-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1021.2002-08-23.SA_and_HP.spam.txt
@@ -2547,7 +2547,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1877.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1106.2002-08-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4626.2005-07-19.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3258.2005-07-03.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3258.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4540.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3743.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1609.2005-06-22.SA_and_HP.spam.txt
@@ -2572,14 +2572,14 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2997.2005-07-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1526.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4020.2005-07-15.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2102.2005-06-25.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2102.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3808.2005-07-12.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2536.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4341.2005-07-18.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0424.2002-06-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1505.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1778.2005-06-22.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4727.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4727.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3478.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2478.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0078.2002-05-02.SA_and_HP.spam.txt
@@ -2677,7 +2677,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3509.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2343.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5064.2005-07-21.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4404.2005-07-18.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4404.2005-07-18.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0977.2002-08-07.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2161.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5049.2005-07-21.SA_and_HP.spam.txt
@@ -2704,7 +2704,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1752.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4061.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3999.2005-07-14.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3560.2005-07-05.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3560.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1489.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1703.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3188.2005-07-02.SA_and_HP.spam.txt
@@ -2751,12 +2751,12 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3860.2005-07-13.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4496.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2183.2005-06-26.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4942.2005-07-20.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4942.2005-07-20.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2452.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1101.2002-08-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0915.2002-08-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3973.2005-07-14.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4525.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4525.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4771.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2244.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4817.2005-07-19.SA_and_HP.spam.txt
@@ -2824,7 +2824,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4275.2005-07-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1041.2002-08-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0325.2002-05-28.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4508.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4508.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1873.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0428.2002-06-07.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0069.2002-04-13.SA_and_HP.spam.txt
@@ -2858,7 +2858,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3113.2005-07-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0747.2002-07-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4945.2005-07-20.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1647.2005-06-22.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1647.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0347.2002-05-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3905.2005-07-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4104.2005-07-15.SA_and_HP.spam.txt
@@ -2876,7 +2876,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2242.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0979.2002-08-07.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4895.2005-07-20.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1697.2005-06-22.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1697.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0390.2002-06-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0547.2002-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0911.2002-08-03.SA_and_HP.spam.txt
@@ -2931,7 +2931,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4075.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3187.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0159.2002-05-14.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4726.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4726.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2479.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2679.2005-06-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2431.2005-06-27.SA_and_HP.spam.txt
@@ -2954,7 +2954,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0828.2002-07-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3412.2005-07-04.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4746.2005-07-19.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1572.2005-06-21.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1572.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1025.2002-08-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2875.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4087.2005-07-15.SA_and_HP.spam.txt
@@ -2965,7 +2965,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3242.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1315.2002-09-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4483.2005-07-19.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0254.2002-05-21.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0254.2002-05-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3876.2005-07-13.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2036.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3496.2005-07-05.SA_and_HP.spam.txt
@@ -3138,7 +3138,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3110.2005-07-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1837.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0477.2002-06-10.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0067.2002-04-12.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0067.2002-04-12.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4474.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0275.2002-05-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2906.2005-06-30.SA_and_HP.spam.txt
@@ -3157,7 +3157,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2528.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2047.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1187.2002-09-12.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4941.2005-07-20.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4941.2005-07-20.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2111.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4873.2005-07-20.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3996.2005-07-14.SA_and_HP.spam.txt
@@ -3187,7 +3187,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3991.2005-07-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1898.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3166.2005-07-02.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1001.2002-08-22.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1001.2002-08-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3524.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1433.2005-05-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5108.2005-07-21.SA_and_HP.spam.txt
@@ -3207,7 +3207,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3611.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4417.2005-07-18.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1169.2002-09-09.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3607.2005-07-06.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3607.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4758.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2524.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2972.2005-07-01.SA_and_HP.spam.txt
@@ -3229,7 +3229,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3355.2005-07-04.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1982.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1585.2005-06-22.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4611.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4611.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1759.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0414.2002-06-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2649.2005-06-29.SA_and_HP.spam.txt
@@ -3242,7 +3242,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0670.2002-07-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0460.2002-06-09.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2053.2005-06-24.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4634.2005-07-19.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4634.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0237.2002-05-20.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1803.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3201.2005-07-02.SA_and_HP.spam.txt
@@ -3284,9 +3284,9 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3700.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3565.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3777.2005-07-07.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4709.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4709.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1729.2005-06-22.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3311.2005-07-03.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3311.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0094.2002-05-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3907.2005-07-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4782.2005-07-19.SA_and_HP.spam.txt
@@ -3333,7 +3333,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4615.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0850.2002-07-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1568.2005-06-21.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1527.2005-06-21.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1527.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2793.2005-06-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4624.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2666.2005-06-29.SA_and_HP.spam.txt
@@ -3414,7 +3414,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1229.2002-09-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1626.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2799.2005-06-29.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2961.2005-06-30.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2961.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3654.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1849.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4754.2005-07-19.SA_and_HP.spam.txt
@@ -3427,7 +3427,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4565.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2268.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1274.2002-09-21.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3148.2005-07-02.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3148.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3345.2005-07-04.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4068.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3255.2005-07-03.SA_and_HP.spam.txt
@@ -3499,9 +3499,9 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1784.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0826.2002-07-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1355.2002-12-03.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2594.2005-06-28.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2594.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1298.2002-09-24.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2021.2005-06-24.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2021.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0958.2002-08-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5023.2005-07-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2573.2005-06-28.SA_and_HP.spam.txt
@@ -3523,7 +3523,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1488.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1628.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4166.2005-07-16.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4663.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4663.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1671.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4812.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4683.2005-07-19.SA_and_HP.spam.txt
@@ -3549,7 +3549,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1345.2002-12-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2450.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2771.2005-06-29.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0777.2002-07-25.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0777.2002-07-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0879.2002-08-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1257.2002-09-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1415.2005-04-20.SA_and_HP.spam.txt
@@ -3588,14 +3588,14 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2866.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2473.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1238.2002-09-18.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4740.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4740.2005-07-19.SA_and_HP.spam.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2001.2005-06-24.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1684.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1358.2002-12-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3523.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2675.2005-06-29.SA_and_HP.spam.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4541.2005-07-19.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3217.2005-07-02.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3217.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3055.2005-07-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2281.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1308.2002-09-25.SA_and_HP.spam.txt
@@ -3696,7 +3696,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4142.2005-07-16.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2869.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0316.2002-05-27.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3261.2005-07-03.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3261.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2413.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0010.2001-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1713.2005-06-22.SA_and_HP.spam.txt
@@ -3704,7 +3704,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1798.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4019.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5010.2005-07-21.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4856.2005-07-19.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4856.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4965.2005-07-20.SA_and_HP.spam.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4497.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3322.2005-07-03.SA_and_HP.spam.txt
@@ -3712,7 +3712,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3283.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0270.2002-05-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1098.2002-08-28.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3757.2005-07-07.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3757.2005-07-07.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3413.2005-07-04.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2928.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2810.2005-06-30.SA_and_HP.spam.txt
@@ -3749,7 +3749,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1838.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2474.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0701.2002-07-23.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3218.2005-07-02.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3218.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0640.2002-07-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0168.2002-05-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0576.2002-07-20.SA_and_HP.spam.txt
@@ -3760,12 +3760,12 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1696.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2520.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1080.2002-08-27.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0556.2002-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0556.2002-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0380.2002-06-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3071.2005-07-01.SA_and_HP.spam.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4637.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0476.2002-06-10.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2699.2005-06-29.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2699.2005-06-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3316.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4149.2005-07-16.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1532.2005-06-21.SA_and_HP.spam.txt
@@ -3985,10 +3985,10 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2641.2005-06-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2145.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1575.2005-06-21.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2172.2005-06-25.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2172.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2307.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2634.2005-06-29.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4891.2005-07-20.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4891.2005-07-20.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4285.2005-07-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0252.2002-05-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2152.2005-06-25.SA_and_HP.spam.txt
@@ -4055,7 +4055,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2313.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0807.2002-07-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0436.2002-06-07.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4616.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4616.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4749.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4339.2005-07-18.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4943.2005-07-20.SA_and_HP.spam.txt
@@ -4329,8 +4329,8 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2998.2005-07-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1405.2005-04-08.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3075.2005-07-01.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2954.2005-06-30.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0606.2002-07-21.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2954.2005-06-30.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0606.2002-07-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1820.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1487.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2193.2005-06-26.SA_and_HP.spam.txt
@@ -4355,7 +4355,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3034.2005-07-01.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2623.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1640.2005-06-22.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4620.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4620.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5127.2005-07-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3431.2005-07-04.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3875.2005-07-13.SA_and_HP.spam.txt
@@ -4420,7 +4420,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3480.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1240.2002-09-18.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3899.2005-07-14.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2263.2005-06-26.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2263.2005-06-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2547.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4714.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2548.2005-06-28.SA_and_HP.spam.txt
@@ -4436,7 +4436,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4681.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5068.2005-07-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2033.2005-06-24.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2092.2005-06-25.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2092.2005-06-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3296.2005-07-03.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0500.2002-07-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1029.2002-08-23.SA_and_HP.spam.txt
@@ -4458,7 +4458,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3358.2005-07-04.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0186.2002-05-16.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0482.2002-06-22.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0197.2002-05-17.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0197.2002-05-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5131.2005-07-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1900.2005-06-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2892.2005-06-30.SA_and_HP.spam.txt
@@ -4489,7 +4489,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5042.2005-07-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0446.2002-06-08.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2233.2005-06-26.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0968.2002-08-07.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0968.2002-08-07.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2795.2005-06-29.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1581.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0355.2002-05-31.SA_and_HP.spam.txt
@@ -4509,7 +4509,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4201.2005-07-16.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3595.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3252.2005-07-03.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3564.2005-07-05.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3564.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4090.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0307.2002-05-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1844.2005-06-23.SA_and_HP.spam.txt
@@ -4664,7 +4664,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4789.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1469.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2566.2005-06-28.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4504.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4504.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4851.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1275.2002-09-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1643.2005-06-22.SA_and_HP.spam.txt
@@ -4745,7 +4745,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0813.2002-07-26.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1686.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0750.2002-07-24.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4511.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4511.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4291.2005-07-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1715.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1679.2005-06-22.SA_and_HP.spam.txt
@@ -4785,7 +4785,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3753.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4584.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1889.2005-06-23.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4753.2005-07-19.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4753.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3544.2005-07-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0551.2002-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0156.2002-05-14.SA_and_HP.spam.txt
@@ -4807,7 +4807,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1054.2002-08-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1690.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3314.2005-07-03.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2827.2005-06-30.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2827.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2801.2005-06-29.SA_and_HP.spam.txt
 ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4553.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0285.2002-05-24.SA_and_HP.spam.txt
@@ -4925,7 +4925,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4305.2005-07-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0972.2002-08-07.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3922.2005-07-14.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4755.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4755.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3202.2005-07-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1750.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3438.2005-07-04.SA_and_HP.spam.txt
@@ -5000,7 +5000,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1318.2002-09-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3993.2005-07-14.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3013.2005-07-01.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4649.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4649.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0278.2002-05-23.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1534.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4180.2005-07-16.SA_and_HP.spam.txt
@@ -5015,22 +5015,22 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3720.2005-07-06.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4013.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2995.2005-07-01.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4522.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4522.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0944.2002-08-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4933.2005-07-20.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/5159.2005-07-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2430.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1475.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/3984.2005-07-14.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2371.2005-06-27.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2462.2005-06-27.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2371.2005-06-27.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2462.2005-06-27.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1665.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0280.2002-05-23.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0773.2002-07-25.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0773.2002-07-25.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0090.2002-05-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4854.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0216.2002-05-18.SA_and_HP.spam.txt
-spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1644.2005-06-22.SA_and_HP.spam.txt
+ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1644.2005-06-22.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0408.2002-06-05.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1541.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1862.2005-06-23.SA_and_HP.spam.txt
@@ -5113,7 +5113,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1380.2005-03-10.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0370.2002-06-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1277.2002-09-21.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4527.2005-07-19.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4527.2005-07-19.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4110.2005-07-15.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4156.2005-07-16.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1611.2005-06-22.SA_and_HP.spam.txt
@@ -5130,7 +5130,7 @@ spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assign
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2578.2005-06-28.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/4238.2005-07-17.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0401.2002-06-05.SA_and_HP.spam.txt
-ham	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1465.2005-06-21.SA_and_HP.spam.txt
+spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/1465.2005-06-21.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2893.2005-06-30.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/0907.2002-08-02.SA_and_HP.spam.txt
 spam	/home/vanish/prgs/USC/CSCI 544 - Applied Natural Language Processing/Assignment 1/dev/4/spam/2279.2005-06-26.SA_and_HP.spam.txt
