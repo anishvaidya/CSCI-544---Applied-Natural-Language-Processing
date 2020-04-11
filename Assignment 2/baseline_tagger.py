@@ -108,16 +108,6 @@ class BaselineTagger():
         print ("Accuracy is " , (correct_predictions / total_predictions))
 
 
-# def main():
-#     start = time.time()
-#     training_set = list(hw2_corpus_tool.get_data(INPUTDIR))
-#     dev_set = list(hw2_corpus_tool.get_data(TESTDIR))
-#     train_features, train_labels = BaselineTagger.generate_features_and_labels(training_set)
-#     test_features, test_labels = BaselineTagger.generate_features_and_labels(dev_set)
-#     BaselineTagger.train_model(train_features, train_labels)
-#     BaselineTagger.predict(test_features, test_labels)
-#     print ("Time taken (in seconds) :", (time.time() - start))
-
     
 if __name__ == "__main__":
     start = time.time()

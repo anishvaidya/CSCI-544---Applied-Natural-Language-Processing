@@ -45,6 +45,7 @@ Author - Anish Amul Vaidya
 # import sys
 import pycrfsuite
 import hw2_corpus_tool
+import time
 
 # Retrieve file-paths and file-names from command line
 INPUTDIR = "all/train"
@@ -69,26 +70,35 @@ class BaselineTagger():
                 dialog_features = []
                 speaker2 = getattr(dialog, "speaker")
                 if conversation_start:
-                    dialog_features.append("First Utterance: True")
                     dialog_features.append("Speaker change: False")
+                    dialog_features.append("First Utterance: True")
+                    
                     conversation_start = False
                 else:
                     if speaker1 != speaker2:
-                        dialog_features.append("First Utterance: False")
                         dialog_features.append("Speaker change: True")
-                    else:
                         dialog_features.append("First Utterance: False")
+                        
+                    else:
                         dialog_features.append("Speaker change: False")
+                        dialog_features.append("First Utterance: False")
+                        
+                        
                 postag_object_list = getattr(dialog, "pos")
                 if postag_object_list is not None:
                     for postag_object in postag_object_list:
-                        dialog_features.append("TOKEN_" + getattr(postag_object, "token"))
-                        dialog_features.append("POS_" + getattr(postag_object, "pos"))
+                        token = getattr(postag_object, "token")
+                        pos = getattr(postag_object, "pos")
+                        dialog_features.append("TOKEN_" + token)
+                        dialog_features.append("POS_" + pos)
                 else:
-                    dialog_features.append("TOKEN_BLANK")
-                    dialog_features.append("POS_BLANK")   
+                    # dialog_features.append("TOKEN_BLANK")
+                    # dialog_features.append("POS_BLANK")
+                    dialog_features.append("NO_WORDS")
                 conversation_features.append(dialog_features)
-                conversation_labels.append(getattr(dialog, "act_tag"))
+                act_tag = getattr(dialog, "act_tag")
+                if act_tag:
+                    conversation_labels.append(act_tag)
                 speaker1 = speaker2
             features.append(conversation_features)
             labels.append(conversation_labels)
@@ -138,19 +148,50 @@ class BaselineTagger():
             max_accuracy = accuracy
             max_acc_test = test_files
 
-def main():
-    global max_accuracy
-    for i in range(50):
-        print ("-----------------------------------------------------------")
-        print ("Iteration ", i)
-        data_splitter()
+# def main():
+#     global max_accuracy
+#     for i in range(50):
+#         print ("-----------------------------------------------------------")
+#         print ("Iteration ", i)
+#         data_splitter()
+#         training_set = list(hw2_corpus_tool.get_data(INPUTDIR))
+#         dev_set = list(hw2_corpus_tool.get_data(TESTDIR))
+#         train_features, train_labels = BaselineTagger.generate_features_and_labels(training_set)
+#         test_features, test_labels = BaselineTagger.generate_features_and_labels(dev_set)
+#         BaselineTagger.train_model(train_features, train_labels)
+#         BaselineTagger.predict(test_features, test_labels)
+#     print ("Max accuracy is ", max_accuracy)
+    
+if __name__ == "__main__":
+    input_dir_list = ["data/train", "data/train_best", "data/train_sid", "data/train1"]
+    test_dir_list = ["data/dev", "data/dev_best", "data/dev_sid", "data/dev1"]
+    for INPUTDIR, TESTDIR in zip(input_dir_list, test_dir_list):
+        start = time.time()
         training_set = list(hw2_corpus_tool.get_data(INPUTDIR))
         dev_set = list(hw2_corpus_tool.get_data(TESTDIR))
         train_features, train_labels = BaselineTagger.generate_features_and_labels(training_set)
         test_features, test_labels = BaselineTagger.generate_features_and_labels(dev_set)
+        print ("Training model " + INPUTDIR)
         BaselineTagger.train_model(train_features, train_labels)
         BaselineTagger.predict(test_features, test_labels)
-    print ("Max accuracy is ", max_accuracy)
-    
-if __name__ == "__main__":
-    main()
+        print ("Time taken (in seconds) :", (time.time() - start))
+        print ("-----------------------------------------------------------------")
+        
+'''
+Training model data/train
+Accuracy is  0.72200983069361
+Time taken (in seconds) : 68.87009882926941
+-----------------------------------------------------------------
+Training model data/train_best
+Accuracy is  0.7335149756939
+Time taken (in seconds) : 71.86131548881531
+-----------------------------------------------------------------
+Training model data/train_sid
+Accuracy is  0.7334733041618429
+Time taken (in seconds) : 81.44987893104553
+-----------------------------------------------------------------
+Training model data/train1
+Accuracy is  0.7215160225699989
+Time taken (in seconds) : 67.47267532348633
+-----------------------------------------------------------------
+'''

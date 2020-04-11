@@ -11,8 +11,11 @@ Name: ANISH AMUL VAIDYA
 I used 3 different train-dev spilts to ensure my algorithm works on a variety of dataset distributions. I selected the splits in the following order:-
 
 a. I selected ~25% of the files for development data.
-b. I selected 25% (exact) data, more precisely the last 25% of the files from whole dataset when the files are in sorted order.
+
+b. I selected 25% (exact) data, more precisely the last 25% of the files from whole dataset when the files are in sorted order. (This idea was given by Prof. Mark Core)
+
 c. I ran the baseling tagger for 50 iterations, each time chose a random 75-25 split and chose the split which gave the best accuracy on the baseline tagger.
+
 Thus, there are now 3 dataset-splits which can be used for advanced taggers to get a good idea of features-dataset_distribution correlation.
 
 * Baseline Tagger:
@@ -20,9 +23,13 @@ Thus, there are now 3 dataset-splits which can be used for advanced taggers to g
 Features selected -
 
 a. First utterance of a conversation
+
 b. Speaker change on utterance. (Speaker change for first utterance is False)
+
 c. Token of each work in the following format - TOKEN_word
+
 d. Part of speech tag for the word in the following format - POS_pos_of_word
+
 e. If POS tag list for an utterance is empty, then add a feature "NO_WORDS"
 
 The parameters of baseling trainer are same as provided in the assignment description (iterations = 50).
@@ -30,6 +37,19 @@ The parameters of baseling trainer are same as provided in the assignment descri
 
 2. Accuracy of baseline features during your evaluation:
 
+The following are the advanced tagger accuracies that I observed on the 3 different dataset splits chosen above:-
+
+a. Dataset split (a)
+Accuracy is  0.7215160225699989
+Time taken (in seconds) : 67.47267532348633
+
+b. Dataset split (b)
+Accuracy is  0.72200983069361
+Time taken (in seconds) : 68.87009882926941
+
+c. Dataset split (c)
+Accuracy is  0.7335149756939
+Time taken (in seconds) : 71.86131548881531
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 3. Describe your advanced feature set:
@@ -42,13 +62,15 @@ a. Does the current utterance contain a question ("?") - True/False
 
 b. Counts of POS_tags which appear in the utterance. ex - 'POS_IN: 2' => POS IN appears 2 times in that particular utterance.
 
-c. Adding memory of the previous utterance. This was done by adding the POS_tags of previous utterance to the current one.
+c. Adding memory of the previous utterances. This is like an N-gram model where previous observations are thought to influence the current one. Ex - (n - 2) <- (n - 1) <- n :- this means that n is dependent on n-1 which is dependent on n-2. 
+-- I implemented the code for n-gram models where I added the POS_tags of n-previous observations (utterances) to the current utterance.
+-- The code is generalized for adding n-previous utterances's POS_tags, but training the model on 3 sets of dataset splits explained above, I got the highest accuracy and efficiency ratio with adding previous 3 utterances's POS_tags to the current utterance and running the training algorithm for 50 iterations. Thus, the language model is 4-gram. (n = 3)
 
 d. Keeping a count of the number of utterances for which speaker has not changed. It was observed that there are some dialogs where one speaker talks for a number of utterances, and this affects the dialog act.
 
 e. It was observed that most of the utterances end in either "/" or ":" so I added a marker True/False for those cases.
 
-f. If POS list for an utterance is NONE, then the text of that utterance was of the following format - <laughter>. In this case, I added the text to feature list along with a tag "NO_POS". 
+f. If POS list for an utterance is NONE, then the text of that utterance was of the following format - <laughter>. In this case, I added the "text" to feature list along with a tag "NO_POS". 
 
 g. Added the last 3 characters of the previous utterance as well as the current utterance as it seemed to improve the accuracy.
 
@@ -64,7 +86,7 @@ a. Converting all text to lower case - It did not improve the accuracy. This is 
 
 b. Checking if an utterance is a part of a continuing sentence or a new sentence.
 
-c. Transcription error "[[" or "]]".
+c. Adding a tag for transcription error "[[" or "]]".
 
 d. Last utterance in a conversation - True/False.
 
@@ -72,19 +94,19 @@ d. Last utterance in a conversation - True/False.
 
 5. Accuracy of advanced features was:
 
-Training model data/train
-Accuracy is  0.7728407583677928
-Time taken (in seconds) : 161.7879695892334
------------------------------------------------------------------
-Training model data/train_best
-Accuracy is  0.7817743453034343
-Time taken (in seconds) : 159.2809283733368
------------------------------------------------------------------
-Training model data/train_sid
-Accuracy is  0.783058297196005
-Time taken (in seconds) : 156.98535895347595
------------------------------------------------------------------
-Training model data/train1
-Accuracy is  0.7728521239220696
+The following are the advanced tagger accuracies that I observed on the 3 different dataset splits chosen above:-
+
+a. Dataset split (a)
+Accuracy is  77.28521239220696 %
 Time taken (in seconds) : 159.83601832389832
------------------------------------------------------------------
+
+b. Dataset split (b)
+Accuracy is  77.28407583677928 %
+Time taken (in seconds) : 161.7879695892334
+
+c. Dataset split (c)
+Accuracy is  78.17743453034343 %
+Time taken (in seconds) : 159.2809283733368
+
+
+
