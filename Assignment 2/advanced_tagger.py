@@ -91,7 +91,7 @@ class AdvancedTagger:
                     previous_dialog_pos.append("POS_BLANK")
                     dialog_features.append("Text " + text)
                     dialog_features.append("Text " + text)
-                    # dialog_features.append("Inaudible text")
+                    dialog_features.append("Inaudible text")
                     dialog_features.append("NO_POS")
                     
                 dialog_features.append("Speaker continuous sentence: " + str(speaker_continuous_sentence_count))

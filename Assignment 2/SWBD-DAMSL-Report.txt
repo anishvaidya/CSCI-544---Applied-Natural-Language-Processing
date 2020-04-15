@@ -40,15 +40,15 @@ The parameters of baseling trainer are same as provided in the assignment descri
 The following are the advanced tagger accuracies that I observed on the 3 different dataset splits chosen above:-
 
 a. Dataset split (a)
-Accuracy is  0.7215160225699989
+Accuracy is  72.15160225699989 %
 Time taken (in seconds) : 67.47267532348633
 
 b. Dataset split (b)
-Accuracy is  0.72200983069361
+Accuracy is  72.200983069361 %
 Time taken (in seconds) : 68.87009882926941
 
 c. Dataset split (c)
-Accuracy is  0.7335149756939
+Accuracy is  73.35149756939 %
 Time taken (in seconds) : 71.86131548881531
 --------------------------------------------------------------------------------------------------------------------------------------------
 

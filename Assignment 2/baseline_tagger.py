@@ -46,8 +46,7 @@ class BaselineTagger():
                     else:
                         dialog_features.append("Speaker change: False")
                         dialog_features.append("First Utterance: False")
-                        
-                        
+                             
                 postag_object_list = getattr(dialog, "pos")
                 if postag_object_list is not None:
                     for postag_object in postag_object_list:
